@@ -1,4 +1,4 @@
-# pathfinder
+# Pathfinder
 
 this program finds all posibble shortest routes between islands
 
